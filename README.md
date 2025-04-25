@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any queries or support, please contact [your-email@example.com]
+For any queries or support, please contact [ashishkumarupadhyay@0328@gmail.com](mailto:ashishkumarupadhyay@0328@gmail.com)

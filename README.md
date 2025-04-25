@@ -2,6 +2,11 @@
 
 A modern employee task management system built with Vite, React, and TypeScript. This application provides a comprehensive solution for managing employee tasks, assignments, and tracking progress.
 
+## 🔗 Links
+
+- GitHub Repository: [https://github.com/Ashish-kumar-upadhyay/Employee-task](https://github.com/Ashish-kumar-upadhyay/Employee-task)
+- Live Demo: [https://employee-task-psi.vercel.app/](https://employee-task-psi.vercel.app/)
+
 ## Features
 
 - 📝 Task Creation and Management
